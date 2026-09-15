@@ -1,0 +1,11 @@
+ID_Producto,Producto,Categoria,Precio_Original,Unidades_Vendidas
+T001,iPhone 17 Pro Max,Smartphones,$ 5.200.000,45
+T002,Laptop ASUS ROG,Laptops,$ 4.800.000,12
+T003,Audífonos Inalámbricos Bluetooth,Accesorios,$ 150.000,120
+T004,Nintendo Switch OLED,Consolas,$ 1.600.000,30
+T005,Samsung Galaxy S24 Ultra,Smartphones,$ 4.500.000,25
+T006,Mouse Gamer Logitech,Accesorios,$ 220.000,85
+T007,PlayStation 5 Pro,Consolas,$ 2.800.000,18
+T008,MacBook Air M3,Laptops,$ 4.200.000,15
+T009,Teclado Mecánico RGB,Accesorios,$ 180.000,60
+T010,Xiaomi Redmi Note 13,Smartphones,$ 950.000,150
