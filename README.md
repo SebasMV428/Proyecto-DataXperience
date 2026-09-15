@@ -1,5 +1,7 @@
 # Optimización de Precios - Tecnoova Online 🛒📊
 
+🎥 **Video de Sustentación:** [Haz clic aquí para ver el video en YouTube](https://youtu.be/GXb4lQigTqg)
+
 Este repositorio contiene las evidencias del proyecto final de Ciencia de Datos aplicado a un entorno real de comercio electrónico.
 
 ## Contenido del Proyecto
